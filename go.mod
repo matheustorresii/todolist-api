@@ -1,6 +1,6 @@
 module todolist
 
-go 1.21.7
+go 1.21.6
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.0
