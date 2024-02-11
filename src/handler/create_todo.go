@@ -2,7 +2,7 @@ package handler
 
 import (
 	"database/sql"
-	"todolist/internal/app/model"
+	"todolist/src/model"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"

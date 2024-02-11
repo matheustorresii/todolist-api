@@ -1,6 +1,6 @@
 run:
 	@echo "Running the server..."
-	@go run ./cmd/server
+	@go run ./
 
 build:
 	@echo "Building the binary..."
